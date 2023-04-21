@@ -19,4 +19,5 @@ Example:
 <p><u> This is Underlined Text </u></p>
 ```
 Altogether it should look something like this:
-<p><b><i>This Is Bold And Italic and <u> Underlined </u> Text. </i></b></p>
+<p><b><i>This Is Bold And Italic Text. </i></b></p>
+<p> this is <u> Underlined </u> Text</p>
