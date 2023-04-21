@@ -12,5 +12,11 @@ Example:
 ```
 <p><i> This is Italic Text </i></p>
 ```
+` <u> ` This Is the Underline element, its used in the paragraph element see: <a href="https://github.com/skyss0fly/CodeAcademy/blob/main/html5/paragraphs.md">paragraphs</a> 
+And When you are finished using the underline element inside the paragraphs, remember to close it in with a: ` </u> `
+Example:
+```
+<p><u> This is Underlined Text </u></p>
+```
 Altogether it should look something like this:
-<p><b><i>This Is Bold And Italic</i></b></p>
+<p><b><i><u>This Is Bold And Italic and Underlined Text. </u></i></b></p>
