@@ -1,5 +1,6 @@
 # Elements
-An Element is A Special format you can use in text in html
+An Element is A Special format you can use in text in html.
+
 disclaimer: underlined text cannot be viewed on github, but i can assure you it works
 ## List Of Examples
 ` <b> ` This Is the BOLD element, its used in the paragraph element see: <a href="https://github.com/skyss0fly/CodeAcademy/blob/main/html5/paragraphs.md">paragraphs</a> 
